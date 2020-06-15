@@ -1,0 +1,10 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+.h2{
+  margin-left: calc(100vw - 400px);
+  vertical-align: middle;
+
+}
